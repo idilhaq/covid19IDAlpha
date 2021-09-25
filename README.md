@@ -1,1 +1,1 @@
-# covid19IDAlpha
+# The new version of covid19ID site
