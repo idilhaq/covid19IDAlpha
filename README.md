@@ -1,3 +1,3 @@
-## Hi
+## Covid19ID API
 
 Welcome
